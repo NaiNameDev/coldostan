@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://bg2p8yr55ri1g"]
+
+[ext_resource type="Script" path="res://trees/levels/1/Script/indoor.gd" id="1_s887d"]
+
+[node name="indoor" type="Area3D"]
+script = ExtResource("1_s887d")
+
+[node name="Timer" type="Timer" parent="."]
+autostart = true
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
