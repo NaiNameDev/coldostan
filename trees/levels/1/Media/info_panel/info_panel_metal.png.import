@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mbh6es6u2jpc"
-path.s3tc="res://.godot/imported/room_wood.png-f77d9ba8b2b46665652cd958309de4a7.s3tc.ctex"
+uid="uid://tixrjgueqh3q"
+path.s3tc="res://.godot/imported/info_panel_metal.png-6661153d17ec5eb33ba2651fedb31990.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "1f879da8272d4a8fc85192c1b786b20b"
+"md5": "eaff886ee1d7a48e2b3a3f0eb5f56e94"
 }
 
 [deps]
 
-source_file="res://trees/levels/1/Media/room_wood.png"
-dest_files=["res://.godot/imported/room_wood.png-f77d9ba8b2b46665652cd958309de4a7.s3tc.ctex"]
+source_file="res://trees/levels/1/Media/info_panel/info_panel_metal.png"
+dest_files=["res://.godot/imported/info_panel_metal.png-6661153d17ec5eb33ba2651fedb31990.s3tc.ctex"]
 
 [params]
 

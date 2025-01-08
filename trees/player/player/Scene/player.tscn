@@ -6,6 +6,8 @@
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_wta47"]
 
 [node name="Player" type="CharacterBody3D"]
+collision_layer = 3
+collision_mask = 3
 floor_stop_on_slope = false
 floor_block_on_wall = false
 script = ExtResource("1_0ye1f")

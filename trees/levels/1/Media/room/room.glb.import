@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qs5i8ylpwo3m"
-path="res://.godot/imported/room.glb-9416b70079753ee4d8c80bf1eef24b27.scn"
+path="res://.godot/imported/room.glb-4d0fe68b94e257d34c032e3a5ebb6c46.scn"
 
 [deps]
 
-source_file="res://trees/levels/1/Media/room.glb"
-dest_files=["res://.godot/imported/room.glb-9416b70079753ee4d8c80bf1eef24b27.scn"]
+source_file="res://trees/levels/1/Media/room/room.glb"
+dest_files=["res://.godot/imported/room.glb-4d0fe68b94e257d34c032e3a5ebb6c46.scn"]
 
 [params]
 
